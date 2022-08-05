@@ -1,0 +1,24 @@
+{
+  "dna": "2c01843c6c4fc217ef18a4f3bdb16637f2914764ea93c3aa6f2164230a4f2362",
+  "name": "AcadScore #5",
+  "description": "Academic score of a student visualised",
+  "image": "ipfs://QmX3fjnSv57wA3qSnumYxnRMCznUdECu1nX1myNy8pYe13/5.png",
+  "imageHash": "075166d6200b516aab1ed5aba5c348d4a40f20505eb797c5582b7bbd3f8c2d6b",
+  "edition": 5,
+  "date": 1659691729038,
+  "attributes": [
+    {
+      "trait_type": "Bg",
+      "value": "zero"
+    },
+    {
+      "trait_type": "Bod",
+      "value": "zero"
+    },
+    {
+      "trait_type": "cap",
+      "value": "zero"
+    }
+  ],
+  "compiler": "HashLips Art Engine - NFTChef fork"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "dna": "2c01843c6c4fc217ef18a4f3bdb16637f2914764ea93c3aa6f2164230a4f2362",
+    "name": "AcadScore #1",
+    "description": "Academic score of a student visualised",
+    "image": "ipfs://QmX3fjnSv57wA3qSnumYxnRMCznUdECu1nX1myNy8pYe13/1.png",
+    "imageHash": "075166d6200b516aab1ed5aba5c348d4a40f20505eb797c5582b7bbd3f8c2d6b",
+    "edition": 1,
+    "date": 1659691728848,
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "zero"
+      },
+      {
+        "trait_type": "Bod",
+        "value": "zero"
+      },
+      {
+        "trait_type": "cap",
+        "value": "zero"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "2c01843c6c4fc217ef18a4f3bdb16637f2914764ea93c3aa6f2164230a4f2362",
+    "name": "AcadScore #2",
+    "description": "Academic score of a student visualised",
+    "image": "ipfs://QmX3fjnSv57wA3qSnumYxnRMCznUdECu1nX1myNy8pYe13/2.png",
+    "imageHash": "075166d6200b516aab1ed5aba5c348d4a40f20505eb797c5582b7bbd3f8c2d6b",
+    "edition": 2,
+    "date": 1659691728900,
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "zero"
+      },
+      {
+        "trait_type": "Bod",
+        "value": "zero"
+      },
+      {
+        "trait_type": "cap",
+        "value": "zero"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "2c01843c6c4fc217ef18a4f3bdb16637f2914764ea93c3aa6f2164230a4f2362",
+    "name": "AcadScore #3",
+    "description": "Academic score of a student visualised",
+    "image": "ipfs://QmX3fjnSv57wA3qSnumYxnRMCznUdECu1nX1myNy8pYe13/3.png",
+    "imageHash": "075166d6200b516aab1ed5aba5c348d4a40f20505eb797c5582b7bbd3f8c2d6b",
+    "edition": 3,
+    "date": 1659691728946,
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "zero"
+      },
+      {
+        "trait_type": "Bod",
+        "value": "zero"
+      },
+      {
+        "trait_type": "cap",
+        "value": "zero"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "2c01843c6c4fc217ef18a4f3bdb16637f2914764ea93c3aa6f2164230a4f2362",
+    "name": "AcadScore #4",
+    "description": "Academic score of a student visualised",
+    "image": "ipfs://QmX3fjnSv57wA3qSnumYxnRMCznUdECu1nX1myNy8pYe13/4.png",
+    "imageHash": "075166d6200b516aab1ed5aba5c348d4a40f20505eb797c5582b7bbd3f8c2d6b",
+    "edition": 4,
+    "date": 1659691728992,
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "zero"
+      },
+      {
+        "trait_type": "Bod",
+        "value": "zero"
+      },
+      {
+        "trait_type": "cap",
+        "value": "zero"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  },
+  {
+    "dna": "2c01843c6c4fc217ef18a4f3bdb16637f2914764ea93c3aa6f2164230a4f2362",
+    "name": "AcadScore #5",
+    "description": "Academic score of a student visualised",
+    "image": "ipfs://QmX3fjnSv57wA3qSnumYxnRMCznUdECu1nX1myNy8pYe13/5.png",
+    "imageHash": "075166d6200b516aab1ed5aba5c348d4a40f20505eb797c5582b7bbd3f8c2d6b",
+    "edition": 5,
+    "date": 1659691729038,
+    "attributes": [
+      {
+        "trait_type": "Bg",
+        "value": "zero"
+      },
+      {
+        "trait_type": "Bod",
+        "value": "zero"
+      },
+      {
+        "trait_type": "cap",
+        "value": "zero"
+      }
+    ],
+    "compiler": "HashLips Art Engine - NFTChef fork"
+  }
+]
